@@ -1,0 +1,38 @@
+"Location","Phase","Cheese","Charm","Attraction Rate","Mouse","Sample Size"
+"Forbidden Grove","open","Ancient","-","17.86%","Gargoyle",10355
+"Forbidden Grove","open","Ancient","-","15.27%","Spider",10355
+"Forbidden Grove","open","Ancient","-","12.78%","Ghost",10355
+"Forbidden Grove","open","Ancient","-","10.66%","Scavenger",10355
+"Forbidden Grove","open","Ancient","-","7.95%","Vampire",10355
+"Forbidden Grove","open","Ancient","-","6.95%","Zombie",10355
+"Forbidden Grove","open","Ancient","-","6.31%","Bat",10355
+"Forbidden Grove","open","Ancient","-","5.28%","Spectre",10355
+"Forbidden Grove","open","Ancient","-","4.73%","Golem",10355
+"Forbidden Grove","open","Ancient","-","3.00%","Gorgon",10355
+"Forbidden Grove","open","Ancient","-","2.64%","Reaper",10355
+"Forbidden Grove","open","Ancient","-","2.63%","Gate Guardian",10355
+"Forbidden Grove","open","Ancient","-","2.53%","Ravenous Zombie",10355
+"Forbidden Grove","open","Ancient","-","1.42%","Sorcerer",10355
+"Forbidden Grove","closed","Ancient","-","100.00%","Realm Ripper",1412
+"Forbidden Grove","open","Moon","-","48.89%","Lycan",855
+"Forbidden Grove","open","Moon","-","22.22%","Scavenger",855
+"Forbidden Grove","open","Moon","-","11.70%","Ghost",855
+"Forbidden Grove","open","Moon","-","11.11%","Sorcerer",855
+"Forbidden Grove","open","Moon","-","6.08%","Vampire",855
+"Forbidden Grove","open","Radioactive Blue","-","26.59%","Mutated White",4404
+"Forbidden Grove","open","Radioactive Blue","-","26.43%","Mutated Grey",4404
+"Forbidden Grove","open","Radioactive Blue","-","18.39%","Ghost",4404
+"Forbidden Grove","open","Radioactive Blue","-","13.06%","Mutated Brown",4404
+"Forbidden Grove","open","Radioactive Blue","-","9.31%","Zombie",4404
+"Forbidden Grove","open","Radioactive Blue","-","4.47%","Ravenous Zombie",4404
+"Forbidden Grove","open","Radioactive Blue","-","1.70%","Lycan",4404
+"Forbidden Grove","open","Radioactive Blue","-","0.05%","Black Widow",4404
+"Forbidden Grove","closed","Radioactive Blue","-","100.00%","Realm Ripper",332
+"Forbidden Grove","open","Rancid Radioactive Blue","-","26.13%","Mutated Grey",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","22.52%","Mutated White",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","18.02%","Ghost",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","12.16%","Mutated Brown",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","11.71%","Zombie",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","6.76%","Ravenous Zombie",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","2.48%","Lycan",444
+"Forbidden Grove","open","Rancid Radioactive Blue","-","0.23%","Black Widow",444
